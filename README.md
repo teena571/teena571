@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
+<h1 align="center">Hi 👋, I'm Teena Rai</h1>
 <h3 align="center">A passionate FullStack developer </h3>
 
 🧑‍🎓 I’m currently CSE Student at *Chitkara University*  
-📬 [manpreetkaur81008@gmail.com](mailto:manpreetkaur81008@gmail.com)
+📬 [teenarai571@gmail.com](mailto:teenarai571@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-kaur-a020a62b2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_manpreet27_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teena-rai-6b517328a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/trTwinkle/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenarai571@gmail.com) 
 
 
 # 💻 Tech Stack:
@@ -31,6 +32,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=teena571&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=teena571&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teena571&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/trTwinkle?theme=dark&font=Montserrat&ext=activity)
+
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
